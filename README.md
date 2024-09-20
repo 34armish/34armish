@@ -32,7 +32,7 @@ Currently i'm pursuing my Bachelor of Technology degree in Computer science and 
 - 🏆 Winner, NIRMAN 3.0 (State-level Hackathon), out of 60+ teams (Silicon University)
 - 🏆 Winner, Trithon 2023 (Inter-college Hackathon), out of 40+ teams (Trident Academy of Technology)
 - 🌟 Shining Star Award 2024, honored by the college for multiple state-level hackathon wins
-- 🌟 Completed Data Structure and Algorithm course by NPTEL, organized by IIT Kharagpur, with a 85% score
+- 🌟 Completed Data Structure and Algorithm course by NPTEL, organized by IIT Kharagpur, with aggregate score of 85%.
 - 🌟 Nominated as one of the Top 10 teams from our institute for the Smart India Hackathon(SIH 2023)
 
 
