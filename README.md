@@ -2,7 +2,7 @@
 
 I am a tech enthusiastic, self- motivated, reliable, responsible and hard working student.I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.
 
-Currently i'm pursuing my Bachelor of Technology degree in Computer science and Engineering in Trident Academy of Technology.
+Currently I'm pursuing my Bachelor of Technology degree in Computer science and Engineering in Trident Academy of Technology.
 
 ![34armish's Stats](https://github-readme-stats.vercel.app/api?username=34armish&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -15,7 +15,7 @@ Currently i'm pursuing my Bachelor of Technology degree in Computer science and 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,java,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,java,c,git,nodejs,reactjs)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
