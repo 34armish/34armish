@@ -15,7 +15,7 @@ Currently I'm pursuing my Bachelor of Technology degree in Computer science and 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,java,c,git,nodejs,reactjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,java,c,git,react,angular,python,django,postgres,azure)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
