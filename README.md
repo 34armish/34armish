@@ -2,7 +2,7 @@
 
 I am a technology enthusiast with an interest in web development and software engineering. I enjoy building user-friendly applications and learning about both frontend and backend technologies. I like working on projects that help me improve my problem-solving skills and give me hands-on experience with real-world development. I am always interested in learning new tools, frameworks, and technologies to improve my skills and stay updated with current industry trends. Apart from coding, I enjoy exploring new technologies, participating in hackathons, and collaborating with others on technical projects.
 
-# Github Stats
+## Github Stats
 <div><img src="https://readme-stats-fork-mauve.vercel.app/api/?username=34armish&theme=dark&show_icons=true&count_private=true">&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=34armish&theme=dark"></div>
 
